@@ -32,8 +32,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Francisco Raí GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Francisco Raí GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayDevjr&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RayDevj&layout=compact&theme=tokyonight)
 
 ---
 
